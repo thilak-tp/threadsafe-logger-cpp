@@ -1,0 +1,3 @@
+/usr/coding/logger/threadsafe-logger-cpp/build/CMakeFiles/logger_app.dir
+/usr/coding/logger/threadsafe-logger-cpp/build/CMakeFiles/edit_cache.dir
+/usr/coding/logger/threadsafe-logger-cpp/build/CMakeFiles/rebuild_cache.dir

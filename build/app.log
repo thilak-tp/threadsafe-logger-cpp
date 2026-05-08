@@ -1,0 +1,11 @@
+[2026-05-08 10:12:36.077][INFO]Application Initialized
+[2026-05-08 10:12:36.078][DEBUG]Entered Loop
+[2026-05-08 10:12:36.078][WARNING]Warning, memory overflow!
+[2026-05-08 10:12:36.078][ERROR]Process stopped unexpectedly!
+[2026-05-08 10:12:36.078][ERROR]Thread 2 Critical error:
+[2026-05-08 10:12:36.078][INFO]Thread 1 messsage:0
+[2026-05-08 10:12:36.078][INFO]Thread 1 messsage:1
+[2026-05-08 10:12:36.078][INFO]Thread 1 messsage:2
+[2026-05-08 10:12:36.078][INFO]Thread 1 messsage:3
+[2026-05-08 10:12:36.078][INFO]Thread 1 messsage:4
+[2026-05-08 10:12:36.078][INFO]Application Shutdown
